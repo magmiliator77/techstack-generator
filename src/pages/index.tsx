@@ -41,6 +41,7 @@ const techsSrc: string[] = [
   'mysql-icon.svg',
   'raspberrypi-icon.svg',
   'java-icon.svg',
+  'springboot-icon.svg',
 ];
 
 const initTechs = (): TechType[] => {
